@@ -1,7 +1,7 @@
 # Лаб 04 — JUnit 5 нэгжийн тест
 
-**Оюутан:** <Эрдэнэтөр Бүрэнбаяр>
-**Оюутны код:** <М242270084>
+**Оюутан:** Эрдэнэтөр Бүрэнбаяр
+**Оюутны код:** B242270084
 
 ## Орчин
 
@@ -14,7 +14,7 @@ OpenJDK 64-Bit Server VM (build 21.0.12.1+1-1-24.04.4-Ubuntu, mixed mode, sharin
 
 ```
 $ mvn -version
-[1mApache Maven 3.8.7[m
+Apache Maven 3.8.7
 Maven home: /usr/share/maven
 Java version: 21.0.12.1, vendor: Ubuntu, runtime: /usr/lib/jvm/java-21-openjdk-amd64
 Default locale: en_US, platform encoding: UTF-8
